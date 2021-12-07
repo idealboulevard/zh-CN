@@ -1,1 +1,9 @@
 theme: jekyll-theme-architect
+
+title: 《理想之路》中文版
+show_downloads: false
+safe: true
+url: https://idealboulevard.com
+enforce_ssl: idealboulevard.com
+timezone: Asia/Shanghai
+author: ZNing
