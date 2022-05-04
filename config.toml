@@ -29,7 +29,7 @@ enableGitInfo = true
 
   BookDateFormat = '2006-01-02'
 
-  BookSearch = true
+  BookSearch = false
 
   BookComments = true
 
