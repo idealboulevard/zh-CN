@@ -1,6 +1,7 @@
 ---
 headless: true
 ---
+张宁 著
 
 - [**序《跨越时间的回响，仍在继续》**]({{< relref "/docs/preface" >}})
 <br />

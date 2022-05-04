@@ -2,11 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://idealboulevard.com/docs/preface/</loc>
-  </url><url>
     <loc>https://idealboulevard.com/docs/postscript/</loc>
-  </url><url>
-    <loc>https://idealboulevard.com/docs/quarter1/chapter1/</loc>
   </url><url>
     <loc>https://idealboulevard.com/docs/quarter3/chapter7/</loc>
   </url><url>
@@ -75,6 +71,10 @@
     <loc>https://idealboulevard.com/tags/</loc>
   </url><url>
     <loc>https://idealboulevard.com/</loc>
+  </url><url>
+    <loc>https://idealboulevard.com/docs/preface/</loc>
+  </url><url>
+    <loc>https://idealboulevard.com/docs/quarter1/chapter1/</loc>
   </url><url>
     <loc>https://idealboulevard.com/docs/quarter1/chapter1/articles/001-2010-10-23/</loc>
   </url>

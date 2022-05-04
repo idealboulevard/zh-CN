@@ -1,5 +1,4 @@
 ---
-weight: 1
 bookFlatSection: true
 bookToc: false
 title: "序"
@@ -38,3 +37,5 @@ title: "序"
 理想之路，你我共进步。欢迎一起同行。
 
 2019年03月09日傍晚于阴雨的上海
+
+[返回首页]({{< relref "/" >}}) | [下一章]({{< relref "/docs/quarter1/chapter1/" >}})
