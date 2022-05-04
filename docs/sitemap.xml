@@ -2,22 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://idealboulevard.com/docs/preface/</loc>
+  </url><url>
+    <loc>https://idealboulevard.com/docs/quarter1/chapter1/</loc>
+    <lastmod>2022-05-04T17:34:50+08:00</lastmod>
+  </url><url>
     <loc>https://idealboulevard.com/docs/quarter1/</loc>
     <lastmod>2022-05-04T17:34:50+08:00</lastmod>
   </url><url>
     <loc>https://idealboulevard.com/docs/quarter1/after1/</loc>
     <lastmod>2022-05-04T17:34:50+08:00</lastmod>
   </url><url>
-    <loc>https://idealboulevard.com/docs/quarter1/chapter1/</loc>
-    <lastmod>2022-05-04T17:34:50+08:00</lastmod>
-  </url><url>
-    <loc>https://idealboulevard.com/docs/quarter1/chapter2/</loc>
-    <lastmod>2022-05-04T17:34:50+08:00</lastmod>
-  </url><url>
     <loc>https://idealboulevard.com/docs/quarter1/chapter3/</loc>
     <lastmod>2022-05-04T17:34:50+08:00</lastmod>
   </url><url>
-    <loc>https://idealboulevard.com/docs/quarter1/chapter4/</loc>
+    <loc>https://idealboulevard.com/docs/quarter1/chapter2/</loc>
     <lastmod>2022-05-04T17:34:50+08:00</lastmod>
   </url><url>
     <loc>https://idealboulevard.com/docs/quarter2/</loc>
@@ -30,6 +29,9 @@
     <lastmod>2022-05-04T17:34:50+08:00</lastmod>
   </url><url>
     <loc>https://idealboulevard.com/docs/quarter2/chapter6/</loc>
+    <lastmod>2022-05-04T17:34:50+08:00</lastmod>
+  </url><url>
+    <loc>https://idealboulevard.com/docs/quarter1/chapter4/</loc>
     <lastmod>2022-05-04T17:34:50+08:00</lastmod>
   </url><url>
     <loc>https://idealboulevard.com/categories/</loc>
